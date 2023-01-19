@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: permanent;
+    src: url(./font/PermanentMarker-Regular.ttf);
+}
+
+body{
+    background-color:rgb(93, 154, 167)
+}
+.poppee{
+    background-size: cover;
+}
+
+#space{
+    width: 800px;
+    height: 800px;
+    background-image: url(./images/space.jpg);
+    
+}
+
+#montagne{
+    width: 600px;
+    height: 600px;
+    background-image: url(./images/montagne.jpg);
+    
+}
+
+#foret{
+    width: 400px;
+    height: 400px;
+    background-image: url(./images/foret.jpg);
+     
+}
+
+#plage{
+    width: 200px;
+    height: 200px;
+    background-image: url(./images/plage.jpg);
+    
+}
+.titre{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+#paragraphe{
+    color: rgb(79, 10, 163);
+    text-align: center;
+    font-family: permanent;
+    font-size: 30px  
+}
+
+
+    
